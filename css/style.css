@@ -26,6 +26,11 @@ body{
     font-size: 14px;
 }
 
+.full_wrap{
+    min-width: 1400px;
+    overflow-x: auto;
+}
+
 /* header 부분 */
 
 #header_wrap{
@@ -47,13 +52,13 @@ body{
 .top{
     display: flex;
     justify-content: center;
-    padding: 20px 0px;
+    padding: 10px 0px;
     align-items: center;
 }
 
 .top>a{
-    width: 100px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
 }
 
 .login{
@@ -97,6 +102,7 @@ body{
     font-size: 20px;
     font-weight: 600;
     text-align: center;
+    align-content: center;
 }
 
 .h_gnb>li>a:hover{
