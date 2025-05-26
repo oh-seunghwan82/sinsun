@@ -627,7 +627,7 @@ body{
 /* 1번째 광고 배너 */
 
 #meal_kit_banner_wrap{
-    min-width: 1400px;
+    min-width: 1320px;
     margin-bottom: 200px;
 }
 
@@ -665,7 +665,7 @@ body{
 }
 
 .best .title_best>img{
-    padding-right: 10px;
+    padding-right: 20px;
 }
 
 .best{
@@ -675,13 +675,13 @@ body{
 
 .swiper-button-prev{
     color: #ef790b;
-    left: -30px;
+    left: -10px;
     right: auto;
 }
 
 .swiper-button-next{
     color: #ef790b;
-    right: -30px;
+    right: -10px;
     left: auto;
 }
 
