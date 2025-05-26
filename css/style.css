@@ -1306,7 +1306,7 @@ body{
 
 .Support_wrap{
     width: 1320px;
-    height: 772px;
+    height: auto;
     box-sizing: border-box;
     padding: 40px 60px;
     border: 2px solid #ef790b;
@@ -1350,7 +1350,7 @@ body{
     height: 40px;
     box-sizing: border-box;
     margin-left: 40px;
-    display: flex;
+    display: none;
 }
 
 .FAQ_content>img{
@@ -1381,6 +1381,7 @@ body{
     box-sizing: border-box;
     font-size: 16px;
     font-weight: 400;
+    float: right;
 }
 
 .turn .plus img {
